@@ -3,7 +3,7 @@ REQUIREMENT DOCUMENT FOR RESTFUL BOOKER -
 https://1drv.ms/w/c/bfda7769c80f54eb/EXGYQWLK79tEhUM8xHp2TwsB-S_usRgtEK-EvptZGuHPdQ?e=hgyk8v
 
 TEST PLAN -
-https://1drv.ms/w/c/bfda7769c80f54eb/EbULIvWsfNpKvenE1KwOgWEBIPnkK6GbhlKgdgvQR3pjxg?e=G0yVt9
+https://1drv.ms/w/c/bfda7769c80f54eb/EeYN0czVd5dJv1edwnPGVbsBUChUM9vKwxRKQ8G20-xz8Q?e=bGdbQY
 
 TEST CASES -
 https://1drv.ms/x/c/bfda7769c80f54eb/EUXBjQBIA-JNoBlJyNeXUFwBVw17kWNImT6P_9EU1MkKdw?e=IgWDnD
